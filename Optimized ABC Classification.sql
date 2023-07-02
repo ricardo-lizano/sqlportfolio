@@ -82,3 +82,5 @@ GROUP BY
 	StoreKey,
 	ProductKey,
 	UnitsSold
+
+GO
