@@ -1,7 +1,7 @@
 
 --Optimized ABC Classification: Enhance Product Management with SQL
 --Author: Ricardo Lizano Monge https://lizano.live/
---Based in ContosoRetailDW dabatese from Microsoft Corporatiion: https://www.microsoft.com/en-us/download/details.aspx?id=18279
+--Tables and data structures from ContosoRetailDW dabatese from Microsoft Corporatiion: https://www.microsoft.com/en-us/download/details.aspx?id=18279
 
 WITH ProductSales AS
 (
